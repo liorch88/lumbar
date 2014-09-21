@@ -25,8 +25,8 @@
     "growl": "1.x",
     "handlebars": "2.x",
     "nib": "1.0.2",
-    "stylus": "0.41.2",
-    "stylus-images": "1.0.3",
+    "stylus": "0.48.1",
+    "stylus-images": "liorch88/stylus-images#master",
     "coffee-script": "1.x",
     "underscore": "1.x"
   },
