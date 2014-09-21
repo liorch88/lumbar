@@ -26,7 +26,7 @@
     "handlebars": "2.x",
     "nib": "1.0.2",
     "stylus": "0.48.1",
-    "stylus-images": "liorch88/stylus-images#master",
+    "stylus-images": "git://github.com/liorch88/stylus-images",
     "coffee-script": "1.x",
     "underscore": "1.x"
   },
